@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HeeWon Yong</h1>
-- 🌱 I’m currently learning **Spring Boot, JPA, Recommandation System**
+- 🌱 I’m currently learning **Spring Boot, JPA, Recommendation System**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
